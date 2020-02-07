@@ -7,7 +7,7 @@ Just for fun !
 ## Built With
 
 * [Materialize](https://materializecss.com/) - The framework CSS
-* [IntelliJ Ultimate](https://www.jetbrains.com/fr-fr/idea/) - API
+* [PhpStorm](https://www.jetbrains.com/fr-fr/idea/) - IDE
 
 ## Versioning
 

@@ -16,3 +16,5 @@ Just for fun !
 ## Authors
 
 * **Florian Gustin @Flow2dot0** - [Linkedin](https://www.linkedin.com/in/florian-gustin-26b22b171/)
+
+Copyrights reserved to [Bookday](https://www.bookday.com)
